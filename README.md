@@ -1,3 +1,3 @@
 # libcore
 
-libcore is a collection of header files that have been conveniently rekeyed from the standard library of C language or reconstructed to fit modern programming languages.
+libcore is a collection of header files, either rekeyed from the standard C library or redesigned to align with modern programming languages.
